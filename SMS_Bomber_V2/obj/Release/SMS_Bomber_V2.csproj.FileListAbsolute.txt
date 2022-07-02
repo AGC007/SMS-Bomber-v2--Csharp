@@ -1,0 +1,8 @@
+E:\پروژه\VS_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS_Bomber_V2.exe.config
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\Interop.MMCInternalWebOcx.dll
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.ResolveComReference.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Form1.resources
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Properties.Resources.resources
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.AssemblyReference.cache
