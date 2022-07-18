@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -29,7 +29,7 @@ namespace SMS_Bomber_V2
             try
             {
                 HttpRequest SMS_REQ = new HttpRequest();
-                string SMS_REQ_RES = SMS_REQ.Get("https://AGC007.IR//AGC007/SMS.PHP?mobile=" + Mobile_TXT.Text).ToString();
+                string SMS_REQ_RES = SMS_REQ.Get("https://AGC007.IR/AGC007/SMS.PHP?mobile=" + Mobile_TXT.Text).ToString();
                 SMS_REQ.UserAgentRandomize();
 
                 if(SMS_REQ_RES.Contains("Process Sucssfull!!"))
@@ -108,7 +108,7 @@ namespace SMS_Bomber_V2
                         Test_Net.UserAgent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64";
                         var GetTest_Site = Test_Net.Get("https://AGC007.IR/").ToString();
                     
-                        if (GetTest_Site.Contains("AGC007 -- HOST"))
+                        if (GetTest_Site.Contains("AGC007"))
                         {                           
                             Site_Check.ForeColor = Color.Green; Site_Check.Text = ("Connected(" + IP_Reg + ").");
 
