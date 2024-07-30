@@ -1,4 +1,4 @@
-# SMS-Bomber-v2--Csharp
+# 💥 [-SMS Bomber [v2] By AGC007™-] 💥
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-production-user-asset-6210df.s3.amazonaws.com/75802202/261107526-3f904e92-cf40-4174-868d-3d6860be9574.jpg">
@@ -7,7 +7,7 @@
 </picture>
 
 
-💥 [-SMS Bomber [v2] By AGC007™-] 💥
+
 
 
 🦢 اس ام اس بمبر سریع و سالم ( متصل به 10 وبسرویس )  🦢
