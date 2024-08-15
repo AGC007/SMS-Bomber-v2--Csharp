@@ -17,3 +17,5 @@
 
 ⏺ With this software, you can send sms to your desired number in a fraudulent way (this software is used to cause disturbance)
 
+
+🖇 API : https://github.com/AGC007/SMS-Bomber-v2--PHP
