@@ -17,4 +17,3 @@ Fast and safe SMS (connected to 10 web services)
 
 ⏺ With this software, you can send sms to your desired number in a fraudulent way (this software is used to cause disturbance)
 
-~ Developed By AGC007 ~
