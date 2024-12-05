@@ -1,0 +1,34 @@
+E:\پروژه\VS_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS_Bomber_V2.exe.config
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\Interop.MMCInternalWebOcx.dll
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.ResolveComReference.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Form1.resources
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Properties.Resources.resources
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Normal\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.AssemblyReference.cache
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.exe.config
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.exe
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.pdb
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\Leaf.xNet.dll
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\RelyUI.dll
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\XanderUI.dll
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.AssemblyReference.cache
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\Interop.MMCInternalWebOcx.dll
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.ResolveComReference.cache
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Form1.resources
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Properties.Resources.resources
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.CopyComplete
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS Bomber [v2] By AGC007™.exe
+E:\پروژه\MY_Project\Normal\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS Bomber [v2] By AGC007™.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.exe.config
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.exe
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\bin\Release\SMS Bomber [v2] By AGC007™.pdb
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.AssemblyReference.cache
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Form1.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.Properties.Resources.resources
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.GenerateResource.cache
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS_Bomber_V2.csproj.CoreCompileInputs.cache
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS Bomber [v2] By AGC007™.exe
+E:\پروژه\MY_Project\LanguageDev\C#\Form\SMS_Bomber_V2\SMS_Bomber_V2\obj\Release\SMS Bomber [v2] By AGC007™.pdb
